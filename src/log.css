@@ -1,0 +1,34 @@
+body{
+    background-color: blanchedalmond;
+}
+form{
+    background-color: darkgoldenrod;
+    height: 150px;
+    width: 330px;
+    margin-top: 20px;
+    margin-left: 36%;
+    padding:20px;    
+}
+#inp1{
+    margin-right: 5px;
+    padding-left: 25px;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+#inp2{
+    padding-left: 25px;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 10px;
+}
+label{
+    padding: 5px;
+}
+button{
+    padding:2px;
+    margin-left: 3px;
+    margin-top: 10px;
+}
+#log{
+    height: 200px;
+    width: 300px;
+}
